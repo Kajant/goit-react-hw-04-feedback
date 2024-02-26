@@ -1,0 +1,14 @@
+.stats {
+  padding: 0px;
+  font-size: 22px;
+  font-weight: 150;
+}
+.good {
+  color: rgb(174, 197, 174);
+}
+.bad {
+  color: rgb(255, 109, 109);
+}
+.neutral {
+  color: rgb(187, 187, 255);
+}
